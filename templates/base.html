@@ -53,6 +53,10 @@
         </div>
         {% endif %}
         
+        <div class="media">
+        <img src="/static/images/DJKAM_Cartoon.png" class="img-fluid" style="background-image">
+        </div>
+        
         <div class="display">
             <form action="{% url 'search' %}" method="get">
             <p>Search our products!</p>
@@ -63,6 +67,16 @@
         <div class="row row-flex">
 
         {% block content %}{% endblock %}
+        </div>
+        <div class="p-body">
+            <p>
+            Welcome to Tees online T-Shirt shop!<br>
+            
+            If you haven't already please register with us to be able to purchase our latest
+            designer t-shirts.<br>
+            
+            If you already have an account with us, then log in above and search our latest products!
+            </p>
         </div>
     </body>
 </html>
