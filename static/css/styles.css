@@ -74,7 +74,6 @@ div.p-body {
 }
 
 img.img-fluid {
-    position: absolute;
-    width: 20%;
-    padding-top: 300px;
+    width: 10%;
+    padding-right: 40px;
 }
