@@ -8,7 +8,7 @@ To purchase their product the user will need to log in or register an account wi
 
 ## Demo
 
-A live demo can be found [here](https://milestone-4-tees.herokuapp.com/)
+A live demo can be found [here](https://milestone-4-tees.herokuapp.com)
 
 ## UX
 
