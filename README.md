@@ -65,8 +65,6 @@ The contents of the site were written by me
 ### Media
 The icon image used on the site was obtained from [here](https://upload.wikimedia.org/wikipedia/en/e/e5/DJKAM_Cartoon.png).
 The product information for the site was taken from
-[here](https://live.staticflickr.com/7426/11663276606_7e3551f995.jpg),
-[here](https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_960_720.jpg),
 [here](https://live.staticflickr.com/2780/4511611658_ec1cd61198_z.jpg), and 
 [here](https://li6.rightinthebox.com/images/384x500/201603/lbrtmw1458617431185.jpg).
 
